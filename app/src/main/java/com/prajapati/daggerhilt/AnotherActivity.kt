@@ -7,5 +7,7 @@ class AnotherActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_another)
+
+        //manoj kumar is going to commit please check this
     }
 }
